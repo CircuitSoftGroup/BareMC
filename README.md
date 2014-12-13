@@ -9,7 +9,7 @@ A barebones template for making a Minecraft server!
 
 ##Using BareMC
 1. Edit plugins.txt in the plugins folder with download links to your plugins.
-2. Run update.sh.
+2. Run build.sh.
 3. Run start.sh
 4. Occasionally run update.sh and then restart your server.
 
